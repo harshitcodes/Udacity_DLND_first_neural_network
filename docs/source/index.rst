@@ -11,6 +11,8 @@ Welcome to Deep Learning Neural Network's documentation!
 
    includeme
 
+.. include:: ../../README.rst
+
 
 
 Indices and tables
