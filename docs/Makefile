@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = DeepLearningNeuralNetwork
 SOURCEDIR     = source
-BUILDDIR      = build
+BUILDDIR      = /Users/harshit/gsoc/fossasia/sphinx-test/build
 
 # Put it first so that "make" without argument is like "make help".
 help:
